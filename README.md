@@ -3,7 +3,7 @@
 </div>
 
 
-<div id="badges">
+<div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/shedrack-sunday">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Shedrack-Sunday&style=flat-square&color=gray" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Shedrack-Sunday&style=flat-square&color=gray" alt="" align="center" />
 
 
 <h1>
@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="250"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
 </div>
 
 
