@@ -33,13 +33,15 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the EMEA Region.
 
 
 - :telescope: I’m working as a Full Stack Software Engineer, contributing to frontend and backend for building web applications.
 
-- :seedling: Currently Exploring Technical Content Writing.
+- :seedling: Currently building my skills in CI/CD, DevOps and Cloud technologies(AWS, Azure and GCP).
+
+- :keyboard: I have an Interest in Technical Writing, and I'm Open to Developer Advocate Roles.
 
 - :zap: In my free time, I solve problems on GeeksforGeek, Hackerank, Leetcode and read tech articles.
 
@@ -74,5 +76,4 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shedrack-Sunday&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shedrack-Sunday&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
