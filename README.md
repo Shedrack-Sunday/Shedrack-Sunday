@@ -13,9 +13,11 @@
   <a href="https://twitter.com/DeleSundayS">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+<img src="https://komarev.com/ghpvc/?username=Shedrack-Sunday&style=flat-square&color=gray" alt="" align="center" />
+
+
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Shedrack-Sunday&style=flat-square&color=gray" alt="" align="center" />
 
 
 <h1>
