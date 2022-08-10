@@ -37,13 +37,20 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the EMEA Region.
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Full Stack Software Engineer, contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Currently Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeek, Hackerank, Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shedrack-blue?style=flat&logo=Linkedin&logoColor=white)]()
+
+- Email: Hannania002@gmail.com
+---
+
+### :bird: Preview :
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shedrack-Sunday&theme=github_dark&show_icons=true&count_private=true)]
+
 
 ---
 
@@ -69,4 +76,3 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shedrack-Sunday&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shedrack-Sunday&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shedrack-Sunday&theme=highcontrast&show_icons=true&count_private=true)
