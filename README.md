@@ -36,7 +36,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: I'm Currently building my skills in CI/CD, DevOps and Cloud technologies(AWS, Azure and GCP).
 
-- :keyboard: I have an Interest in Technical Writing, and I'm Open to Developer Advocate Roles.
+- :keyboard: I have an Interest in Technical Writing, and am Open to Developer Advocate Roles.
 
 - :zap: In my free time, I solve problems on GeeksforGeek, Hackerank, Leetcode and read tech articles.
 
