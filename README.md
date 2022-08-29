@@ -34,7 +34,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a Full Stack Software Engineer, contributing to frontend and backend for building web applications.
 
-- :seedling: Currently building my skills in CI/CD, DevOps and Cloud technologies(AWS, Azure and GCP).
+- :seedling: I'm Currently building my skills in CI/CD, DevOps and Cloud technologies(AWS, Azure and GCP).
 
 - :keyboard: I have an Interest in Technical Writing, and I'm Open to Developer Advocate Roles.
 
