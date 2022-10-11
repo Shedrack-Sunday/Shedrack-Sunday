@@ -29,7 +29,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the EMEA Region.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos Nigeria.
+I'm open to relocation or remote jobs.
 
 
 - :telescope: I’m working as a Full Stack Software Engineer, contributing to frontend and backend for building web applications.
