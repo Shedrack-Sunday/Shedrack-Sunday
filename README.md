@@ -30,12 +30,11 @@
 
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos Nigeria.
-I'm open to relocation or remote jobs.
 
 
 - :telescope: I’m working as a Full Stack Software Engineer, contributing to frontend and backend for building web applications.
 
-- :seedling: I'm Currently building my skills in CI/CD, DevOps and Cloud technologies(AWS, Azure and GCP).
+- :seedling: I'm Currently building my skills in React.js CI/CD, DevOps and Cloud technologies(AWS, Azure).
 
 - :keyboard: I have an Interest in Technical Writing, and am Open to Developer Advocate Roles.
 
@@ -62,7 +61,6 @@ I'm open to relocation or remote jobs.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
