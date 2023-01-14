@@ -46,11 +46,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ## Technical Articles
 [Customizing A React Project](https://shedracksunday.hashnode.dev/customizing-a-react-project)
----
-
-### :bird: Preview :
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shedrack-Sunday&theme=github_dark&show_icons=true&count_private=true)]
-
 
 ---
 
