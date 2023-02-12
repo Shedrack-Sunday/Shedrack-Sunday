@@ -34,7 +34,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a **Full Stack Software Engineer**, contributing to frontend and backend for building web applications.
 
-- :seedling: I'm Currently building my skills in **Ruby and Rails and PostgreSQL**, **CI/CD*,* and Cloud technologies(**Azure**).
+- :seedling: I'm Currently building my skills in **Ruby on  Rails, PostgreSQL**, **CI/CD*,* and Cloud technologies(**Azure**).
 
 - :keyboard: I have an interest in **Technical Writing**, and am open to Developer Advocate Roles.
 
@@ -42,8 +42,13 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shedrack-blue?style=flat&logo=Linkedin&logoColor=white)]()
 
-- Email: Hannania002@gmail.com
+- Email: Hannania002@gmail.com 
 
+## Leadership 
+- [ ] Current **Campus lead** for the **Microsoft ADC Student league** 
+- Leading a group of 30 selected students mentored by **Microsoft Engineers** to be **Software engineers** and **Product managers** .
+- An initiative of the **Microsoft African Development center**
+- [ ] Current **Microsoft Student Ambassador for FUTMinna**
 ## Technical Articles
 [Customizing A React Project](https://shedracksunday.hashnode.dev/customizing-a-react-project)
 
