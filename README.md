@@ -38,7 +38,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :keyboard: I have an interest in **Technical Writing**, and am open to Developer Advocate Roles.
 
-- :zap: I take time to build my **problem-solving** skills in **Data structures and algorithms** on GeeksforGeek, Hackerank, and Leetcode.
+- :zap: I take time to build my **problem-solving** skills in **Data structures and algorithms** on Codewars, Hackerank, and Leetcode.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shedrack-blue?style=flat&logo=Linkedin&logoColor=white)]()
 
@@ -46,8 +46,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ## Leadership 
 - [ ] Current **Campus lead** for the **Microsoft ADC Student league** 
-- Leading a group of 30 selected students mentored by **Microsoft Engineers** to be **Software engineers** and **Product managers** .
-- An initiative of the **Microsoft African Development center**
+- LeLed a group of 30 selected students mentored by **Microsoft Engineers** to be **Software engineers** and **Product managers** .- An initiative of the **Microsoft African Development center**
 - [ ] Current **Microsoft Student Ambassador for FUTMinna**
 ## Technical Articles
 [Customizing A React Project](https://shedracksunday.hashnode.dev/customizing-a-react-project)
@@ -64,7 +63,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title=" HTML5" alt=" HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title=" JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title=" python" alt=" python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title=" NodeJS" alt=" NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title=" Git" **alt="Git" width="40" height="40"/>
 
