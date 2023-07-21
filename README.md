@@ -34,7 +34,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a **Full Stack Software Engineer**, contributing to frontend and backend for building web applications.
 
-- :seedling: I'm Currently building my skills in **Ruby on  Rails, PostgreSQL**, **CI/CD*,* and Cloud technologies(**Azure**).
+- :seedling: I'm Currently building my skills in **Ruby on  Rails, PostgreSQL**, **Golang** and Cloud technologies(**Azure**).
 
 - :keyboard: I have an interest in **Technical Writing**, and am open to Developer Advocate Roles.
 
