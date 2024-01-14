@@ -15,6 +15,8 @@
   </a>
 <img src="https://komarev.com/ghpvc/?username=Shedrack-Sunday&style=flat-square&color=gray" alt=" align=" center" />
 
+![image](https://github.com/Shedrack-Sunday/Shedrack-Sunday/assets/50990925/7d86bcdb-7e1f-424b-a3a1-a98f23c0d765)
+
 
 </div>
 
