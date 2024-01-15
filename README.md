@@ -31,14 +31,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos Nigeria.
-
-
-- :telescope: I’m working as a **Full Stack Software Engineer**, contributing to frontend and backend for building web applications.
-
-- :seedling: I'm Currently building my skills in **Ruby on  Rails, PostgreSQL**, **Golang** and Cloud technologies(**Azure**).
-
-- :keyboard: I have an interest in **Technical Writing**, and am open to Developer Advocate Roles.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the EMEA Region.
 
 - :zap: I take time to build my **problem-solving** skills in **Data structures and algorithms** on Codewars, Hackerank, and Leetcode.
 
