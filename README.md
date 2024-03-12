@@ -43,9 +43,10 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ## Leadership 
 - [ ] Current **Campus lead** for the **Microsoft ADC Student league** 
-- LeLed a group of 30 selected students mentored by **Microsoft Engineers** to be **Software engineers** and **Product managers** .- An initiative of the **Microsoft African Development center**
+- Leading a group of 30 selected students mentored by **Microsoft Engineers** to be **Software engineers** and **Product managers** .- An initiative of the **Microsoft African Development center**
 - [ ] Current **Microsoft Student Ambassador for FUTMinna**
 ## Technical Articles
+[Open Source Fedora](https://shedracksunday.hashnode.dev/delving-into-open-source-my-fedora-journey)
 [Customizing A React Project](https://shedracksunday.hashnode.dev/customizing-a-react-project)
 
 ---
