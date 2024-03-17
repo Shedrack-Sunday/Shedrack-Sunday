@@ -47,7 +47,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - [ ] Current **Microsoft Student Ambassador for FUTMinna**
 ## Technical Articles
 [Open Source Fedora](https://shedracksunday.hashnode.dev/delving-into-open-source-my-fedora-journey)
-[Customizing A React Project](https://shedracksunday.hashnode.dev/customizing-a-react-project)
+[Outreachy Guide to contribution ](https://shedracksunday.hashnode.dev/a-guide-for-new-applicants-to-outreachy?source=more_articles_bottom_blogs)
 
 ---
 
