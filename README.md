@@ -33,8 +33,6 @@
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the EMEA Region.
 
-### 📖 Currently an Outreachy contributor for May 2024 Internship cohort.
-
 - :zap: I take time to build my **problem-solving** skills in **Data structures and algorithms** on Codewars, Hackerank, and Leetcode.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shedrack-blue?style=flat&logo=Linkedin&logoColor=white)]()
@@ -42,11 +40,14 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - Email: Hannania002@gmail.com 
 
 ## Leadership 
-- [ ] Current **Campus lead** for the **Microsoft ADC Student league** 
+- [ ] Ex **Campus lead** for the **Microsoft ADC Student league** 
 - Leading a group of 30 selected students mentored by **Microsoft Engineers** to be **Software engineers** and **Product managers** .- An initiative of the **Microsoft African Development center**
-- [ ] Current **Microsoft Student Ambassador for FUTMinna**
+- [ ] Current Good **Microsoft learn Ambassador for **
 ## Technical Articles
+[Hashnode Profile](https://shedracksunday.hashnode.dev/)
+__
 [Open Source Fedora](https://shedracksunday.hashnode.dev/delving-into-open-source-my-fedora-journey)
+__
 [Outreachy Guide to contribution ](https://shedracksunday.hashnode.dev/a-guide-for-new-applicants-to-outreachy?source=more_articles_bottom_blogs)
 
 ---
