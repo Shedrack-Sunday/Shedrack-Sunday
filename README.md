@@ -39,10 +39,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - Email: Hannania002@gmail.com 
 
-## Leadership 
-- [ ] Ex **Campus lead** for the **Microsoft ADC Student league** 
-- Leading a group of 30 selected students mentored by **Microsoft Engineers** to be **Software engineers** and **Product managers** .- An initiative of the **Microsoft African Development center**
-- [ ] Current Good **Microsoft learn Ambassador for **
+
 ## Technical Articles
 [Hashnode Profile](https://shedracksunday.hashnode.dev/)
 __
