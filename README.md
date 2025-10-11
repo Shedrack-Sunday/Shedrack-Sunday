@@ -31,11 +31,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the EMEA Region.
+I am a Software Engineer and System Infrastructure Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hamburg, Germany.
 
 - :zap: I take time to build my **problem-solving** skills in **Data structures and algorithms** on Codewars, Hackerank, and Leetcode.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shedrack-blue?style=flat&logo=Linkedin&logoColor=white)]()
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shedrack-blue?style=flat&logo=Linkedin&logoColor=white)]()
 
 - Email: Hannania002@gmail.com 
 
