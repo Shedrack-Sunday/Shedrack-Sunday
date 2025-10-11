@@ -10,13 +10,7 @@
  
 
 
-  <a href="https://twitter.com/DeleSundayS">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-<img src="https://komarev.com/ghpvc/?username=Shedrack-Sunday&style=flat-square&color=gray" alt=" align=" center" />
-
-![image](https://github.com/Shedrack-Sunday/Shedrack-Sunday/assets/50990925/7d86bcdb-7e1f-424b-a3a1-a98f23c0d765)
-
+ 
 
 </div>
 
@@ -31,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Engineer and System Infrastructure Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hamburg, Germany.
+I am a Software and System Infrastructure Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hamburg, Germany.
 
 - :zap: I take time to build my **problem-solving** skills in **Data structures and algorithms** on Codewars, Hackerank, and Leetcode.
 
