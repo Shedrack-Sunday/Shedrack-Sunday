@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software and System Infrastructure Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hamburg, Germany.
+I am a Software and System Infrastructure Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
 
 - :zap: I take time to build my **problem-solving** skills in **Data structures and algorithms** on Codewars, Hackerank, and Leetcode.
 
