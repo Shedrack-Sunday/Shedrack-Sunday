@@ -31,7 +31,6 @@ I am a Software and System Infrastructure Engineer <img src="https://media.giphy
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shedrack-blue?style=flat&logo=Linkedin&logoColor=white)]()
 
-- Email: Hannania002@gmail.com 
 
 
 ## Technical Articles
